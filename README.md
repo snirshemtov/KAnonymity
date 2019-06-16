@@ -5,8 +5,6 @@ Snir Shem-tov
 
 K-anonymity and ℓ-diversity project
 
-Table of contents 
-
 Introduction: 
 the challenge of preserving our privacy
 Our society experiences in recent years unprecedented growth in the amount of data that is collected on individuals, organizations, companies and other entities.
